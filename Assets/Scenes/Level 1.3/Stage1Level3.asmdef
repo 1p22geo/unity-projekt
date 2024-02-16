@@ -1,0 +1,17 @@
+{
+    "name": "Stage1Level3",
+    "rootNamespace": "",
+    "references": [
+        "GUID:621a31738a5f89546b08cc444bb54e61",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Stage1Level2",
+	"references":[
+		"Lib",
+		"Unity.InputSystem"
+	]
+}

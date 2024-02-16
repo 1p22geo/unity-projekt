@@ -1,0 +1,17 @@
+{
+    "name": "Stage1Level1",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InputSystem",
+        "Lib"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
